@@ -17,7 +17,7 @@ Analisis statis dilakukan untuk memeriksa karakteristik fundamental dari berkas 
 
 ---
 
-## **2. Analisis Sampel 1: putty.exe **
+## **2. Analisis Sampel 1: putty.exe**
 
 ### **A. Informasi Dasar & Metadata**
 Melalui perintah `file putty.exe` dan `sha256sum putty.exe`, didapatkan data teknis sebagai berikut:
