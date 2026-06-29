@@ -63,7 +63,7 @@ Berdasarkan hasil pemindaian teks mentah di dalam binary `updater.exe`, ditemuka
 Koneksi Eksternal Tersembunyi (C2 Command):
 
 Plaintext
-http://malicious-command-control[.]com/cc/gate.php
+(http://malicious-command-control[.]com/cc/gate.php)
 InternetOpenA, InternetConnectA, HttpSendRequestA
 Indikasi: Binary mengimpor pustaka WININET.dll untuk melakukan panggilan HTTP diam-diam ke server luar.
 
