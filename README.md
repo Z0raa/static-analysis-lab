@@ -3,8 +3,6 @@ Praktikum Analisis Statis Binary PE Windows.
 # **Laporan Praktikum: Analisis Statis Binary PE (Portable Executable)**
 
 * **Repository:** static-analysis-lab
-* **Mata Kuliah:** Keamanan Perangkat Lunak / Reverse Engineering
-* **Author:** cyrex
 * **Jumlah Sampel:** 2 Berkas Executable Windows (.exe)
 
 ---
